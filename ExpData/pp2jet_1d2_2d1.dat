@@ -1,0 +1,24 @@
+#: table_doi: 10.17182/hepdata.66021.v1/t6											
+#: name: Table 6											
+#: description: No description provided.											
+#: data_file: Table6.yaml											
+#: keyword reactions: P P --> JET(S) X											
+#: keyword observables: D2SIG/DPT/DYRAP											
+#: keyword phrases: Inclusive | Double Differential Cross Section | Transverse Momentum Dependence | Rapidity Dependence | Proton-Proton Scattering | Jet Production											
+#: keyword cmenergies: 2760.0											
+#: ABS(YRAP)			1.2-2.1								
+#: R			0.4								
+#: RE			P P --> JET(S) X								
+#: SQRT(S) [GeV]			2760								
+# PT [GEV]	PT [GEV] LOW	PT [GEV] HIGH	D2(SIG)/DPT/DYRAP [NB/GEV]	stat +	stat -	sys,corr +	sys,corr -	sys,uncorr +	sys,uncorr -	sys,luminosity uncertainty +	sys,luminosity uncertainty -
+35	31	39	142	1.6	-1.6	22.5	-22.5	0.7	-0.7	3.1	-3.1
+44.5	39	50	42.7	1.7	-1.7	30.8	-30.8	0.5	-0.5	3.1	-3.1
+56.5	50	63	12.8	1.4	-1.4	14.3	-14.3	0.4	-0.4	3.1	-3.1
+71	63	79	3.55	1.5	-1.5	16.1	-16.1	0.4	-0.4	3.1	-3.1
+89.5	79	100	0.982	1.2	-1.2	13.7	-13.7	0.3	-0.3	3.1	-3.1
+112.5	100	125	0.234	0.8	-0.8	14.7	-14.7	0.1	-0.1	3.1	-3.1
+141.5	125	158	0.0499	1.0	-1.0	13.8	-13.8	0.1	-0.1	3.1	-3.1
+178.5	158	199	0.00926	1.6	-1.6	13.8	-13.8	0.3	-0.3	3.1	-3.1
+225	199	251	0.00141	3.0	-3.0	14.3	-14.3	0.2	-0.2	3.1	-3.1
+283.5	251	316	0.000163	5.1	-5.1	15.0	-15.0	1.0	-1.0	3.1	-3.1
+
