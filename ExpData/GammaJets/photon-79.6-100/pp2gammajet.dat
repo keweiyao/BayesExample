@@ -1,0 +1,28 @@
+#: table_doi: 10.17182/hepdata.85369.v1/t2							
+#: name: Table 2							
+#: description: Photon-jet pT balance distributions (1/Ng)(dN/dxJg) in pp events (blue	 reproduced on all panels) and Pb+Pb events (red) with each panel denoting a different centrality selection. These panels show results with pTg = 79.6-100 GeV. Total systematic uncertainties are shown as boxes	 while statistical uncertainties are shown with vertical bars.					
+#: data_file: data2.yaml							
+#: keyword reactions: PB PB --> Jet gamma							
+#: keyword observables: (1/Ng)(dN/dxJg)							
+#: keyword cmenergies: 5020.0							
+#: keyword phrases: Photon-jet pT balance							
+#: RE			Photon-jet pT balance in pp				
+#: SQRT(S) [GeV]			5020				
+#: pT(gamma)			79.6 - 100 GeV				
+#: Centrality			pp				
+#Photon-jet pT balance xJg	Photon-jet pT balance xJg LOW	Photon-jet pT balance xJg HIGH	(1/Ng)(dN/dxJg) in pp	stat +	stat -	sys +	sys -
+0.422395	0.39811	0.44668	0.64648	0.02577	-0.02577	0.06931	-0.06931
+0.473935	0.44668	0.50119	0.62071	0.02461	-0.02461	0.04154	-0.04154
+0.531765	0.50119	0.56234	0.65694	0.02437	-0.02437	0.04304	-0.04304
+0.59665	0.56234	0.63096	0.70734	0.02421	-0.02421	0.04671	-0.04671
+0.669455	0.63096	0.70795	0.80798	0.02479	-0.02479	0.05577	-0.05577
+0.75114	0.70795	0.79433	0.9594	0.02635	-0.02635	0.05714	-0.05714
+0.84279	0.79433	0.89125	1.21691	0.02972	-0.02972	0.03656	-0.03656
+0.945625	0.89125	1	1.44336	0.03404	-0.03404	0.12496	-0.12496
+1.06101	1	1.12202	0.81264	0.02306	-0.02306	0.08815	-0.08815
+1.190475	1.12202	1.25893	0.3004	0.01217	-0.01217	0.04667	-0.04667
+1.335735	1.25893	1.41254	0.1335	0.00795	-0.00795	0.02357	-0.02357
+1.498715	1.41254	1.58489	0.0602	0.00514	-0.00514	0.01202	-0.01202
+1.681585	1.58489	1.77828	0.02441	0.00313	-0.00313	0.00609	-0.00609
+1.88677	1.77828	1.99526	0.01005	0.00177	-0.00177	0.00223	-0.00223
+					
